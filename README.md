@@ -2,7 +2,7 @@
 
 Predicting depth from elevation angles using Polynomial-Regression.
 
-Data represented in graph.
+Data represented in graph (Input: Elevation angle, Target Variable: Depth).
 
 ![Data_represented_in_graph](https://github.com/skij487/Polynomial-Regression/blob/main/images/data.svg)
 
